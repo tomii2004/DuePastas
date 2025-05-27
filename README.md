@@ -21,9 +21,12 @@ Este proyecto consiste en una página web de una sola página (*one-page*) dise�
 - **js/**: Archivos JavaScript que añaden interactividad a la página.
 - **index.html**: Archivo principal que estructura la página web.
 
-## Instalación y Uso
+## 📄 Derechos de Autor
 
-1. **Clonar el repositorio**:
-   ```bash
-   git clone https://github.com/tomii2004/DuePastas.git
+© 2025 Tomás. Todos los derechos reservados.
+
+Este proyecto fue desarrollado con fines educativos y personales. **No está permitido su uso comercial, redistribución ni modificación sin autorización previa del autor.**
+
+Si querés colaborar, sugerir mejoras o usar parte del código, podés contactarme previamente.
+
 
